@@ -180,7 +180,6 @@ PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
 
 # Radio and Telephony
 PRODUCT_PROPERTY_OVERRIDES += \
-    telephony.lteOnCdmaDevice=0 \
     ro.ril.transmitpower=true \
     persist.radio.add_power_save=1
 
